@@ -47,6 +47,7 @@ export default function Navbar() {
 
   return (
     <>
+    {/* test */}
       <nav
         className="fixed top-5 left-0 right-0 z-1000 max-md:top-0 max-md:bg-bg/50 max-md:backdrop-blur-xl max-md:border-b max-md:border-white/5"
         style={{ padding: "20px 0" }}
